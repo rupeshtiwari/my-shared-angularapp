@@ -1,0 +1,5 @@
+common-lib/dist
+common-lib/node_modules
+
+todo-app/dist
+todo-app/node_modules
